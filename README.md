@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashkumar Jain</h1>
-<h3 align="center">A learner who want to leave the world better, than it was found.</h3>
+<h3 align="center">A Programmer, want to leave the world better, than it was found.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aresyash01022000&label=Profile%20views&color=0e75b6&style=flat" alt="aresyash01022000" /> </p>
 
