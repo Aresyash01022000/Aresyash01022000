@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks and Technologies that are changing the world**
 
-- 📫 How to reach me **yashkumarjain1200@gmail.com**
+- 📫 How to reach me **yashkumar2.jain@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
