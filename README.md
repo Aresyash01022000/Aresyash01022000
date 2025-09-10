@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aresyash01022000&label=Profile%20views&color=0e75b6&style=flat" alt="aresyash01022000" /> </p>
 
-- 🌱 I’m currently learning **Frameworks and Technologies that are changing the world**
+- 🌱 Tech-Risk and Business Consultant with 3+ years’ experience in Computer System Validation, regulatory compliance, and process optimization across Pharmaceutical, Healthcare, and Chemical sectors. Expert in SAP S/4 HANA, Labware LIMS and Microsoft Power Platform delivering solutions that align technology with business impact.
 
 - 📫 How to reach me **yashkumar2.jain@gmail.com**
 
